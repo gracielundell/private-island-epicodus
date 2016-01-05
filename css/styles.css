@@ -17,3 +17,10 @@ a {
   font-family: cursive;
   padding: 15px;
 }
+
+ul{
+  text-align: center;
+  font-size: 18px;
+  font-family:"Gill Sans Extrabold", Helvetica, sans-serif;
+  list-style: none;
+}
